@@ -20,3 +20,6 @@ print(f"Jejich součet je: {soucet}")
 # ÚLOHA 3: Výpočet psího věku (věk * 7)
 # ==========================================
 # Sem napiš svůj kód:
+lidsky_vek = int(input("Kolik ti je let?"))
+psi_vek = lidsky_vek * 7
+print(f"V psích letech by ti bylo: {psi_vek} let. Haf!")
