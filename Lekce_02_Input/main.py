@@ -2,7 +2,7 @@
 # ÚLOHA 1: Registrace (jméno a město)
 # ==========================================
 # Sem napiš svůj kód:
-jmeno = input("Jak se jmenuješ"?)
+jmeno = input("Jak se jmenuješ?")
 barva = input("Jaká je tvá oblíbená barva?")
 print(f"Ahoj {jmeno}, tvoje oblíbená barva je {barva}. To je skvělá volba!")
 
